@@ -1,5 +1,7 @@
 <template>
+    <div class="footer">
     <h1>Footer</h1>
+</div>
   </template>
   
   <script>
@@ -9,7 +11,7 @@
   </script>
 
   <style>
-foooter {
+footer {
     width: 100%;
     margin: auto;
     display: flex;
